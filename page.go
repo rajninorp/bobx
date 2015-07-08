@@ -1,9 +1,9 @@
-package bobx
+package main
 
 import (
 	"errors"
-	"regexp"
 	"github.com/PuerkitoBio/goquery"
+	"regexp"
 )
 
 var pageLink []string

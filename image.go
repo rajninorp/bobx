@@ -1,9 +1,9 @@
-package bobx
+package main
 
 import (
+	"github.com/PuerkitoBio/goquery"
 	"regexp"
 	"strings"
-	"github.com/PuerkitoBio/goquery"
 )
 
 var imageLink []string
